@@ -1,5 +1,4 @@
 package ca.sheridancollege.project;
-
 public class BlackjackGame extends Game {
     private GroupOfCards deck;
     private BlackjackPlayer dealer;
